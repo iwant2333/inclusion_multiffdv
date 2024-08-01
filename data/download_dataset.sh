@@ -1,0 +1,1 @@
+curl 'http://zoloz-open.oss-cn-hangzhou.aliyuncs.com/waitan2024_deepfake_challenge%2F_%E8%B5%9B%E9%81%932%E5%AF%B9%E5%A4%96%E5%8F%91%E5%B8%83%E6%95%B0%E6%8D%AE%E9%9B%86%2Fphase1.tar.gz?Expires=1727816306&OSSAccessKeyId=LTAI5tAfcZDV5eCa1BBEJL9R&Signature=Saa7nwn904l3UTeLgizBt4AQ840%3D' -o multiFFDV-phase1.tar.gz
